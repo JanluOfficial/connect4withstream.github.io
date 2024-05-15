@@ -194,7 +194,7 @@ div.seperator {
 .scorePill {
     min-width: 32px;
     width: max-content;
-    padding: 8px;
+    padding: 0px 8px;
     border-radius: 30px;
     background: lightslategray;
 
