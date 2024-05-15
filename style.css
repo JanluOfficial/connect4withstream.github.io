@@ -72,7 +72,7 @@ html {
     color: white;
 
     transition: cubic-bezier(0.2, 0, 0.1, 1) 333ms;
-    scale: 1;
+    transform: scale(1);
 
     cursor: pointer;
 }
@@ -95,7 +95,7 @@ html {
 }
 
 .topnumber:active {
-    scale: 0.9;
+    transform: scale(0.9);
 }
 
 /* Circle */
@@ -228,5 +228,5 @@ div.seperator {
 }
 
 .scorePill:active {
-    scale: 0.8;
+    transform: scale(0.8);
 }
