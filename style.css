@@ -210,6 +210,11 @@ div.seperator {
     cursor: pointer;
 }
 
+.scorePill:hover {
+    background: white !important;
+    color: black !important;
+}
+
 .scorePill.streamer {
     background: var(--streamer);
     color: black;
